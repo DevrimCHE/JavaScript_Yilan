@@ -200,8 +200,3 @@ function getRandomInt(min, max)
     return Math.floor(Math.random() * (max - min)) + min;
 }
 setInterval(update, 100);
-/*
-Delpih
--Veri tabanından veri çekip grafik çizdirmek
--Quickreport a veri tabanından yazı yazmak
-*/
